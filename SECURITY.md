@@ -20,7 +20,7 @@ We take the security of LM Playground seriously. If you discover a security vuln
 Instead, please report security vulnerabilities via:
 
 1. **GitHub Security Advisories**: [Report a vulnerability](https://github.com/logic-arts-official/LMPlayground/security/advisories/new)
-2. **Email**: Contact the maintainers directly (email address to be added)
+2. **Email**: Contact the project maintainers through GitHub profile contacts
 
 ### What to Include
 
