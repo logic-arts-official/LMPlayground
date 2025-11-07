@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added CHANGELOG.md for version tracking
 - Added SECURITY.md for security policy
 
-## [0.1.0] - 2024
+## [0.1.0] - 2025-11-06
 
 ### Added
 - Initial release of LM Playground
