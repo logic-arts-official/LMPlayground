@@ -267,7 +267,9 @@ These are the actively supported and recommended models:
 
 ## Obsolete Models
 
-These models are from older generations and are hidden from new users. They remain available for users who already downloaded them:
+These models are from older generations and are hidden from new users. They remain available for users who already downloaded them.
+
+**Note on naming**: Older models use different naming conventions (e.g., "Qwen2.5" without space) reflecting their original version numbers, while newer models use updated naming (e.g., "Qwen 3" with space) to match current upstream releases.
 
 - **Qwen2.5 0.5B** - Superseded by Qwen 3 0.6B
 - **Qwen2.5 1.5B** - Superseded by Qwen 3 1.7B

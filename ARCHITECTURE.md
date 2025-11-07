@@ -471,7 +471,9 @@ MainActivity
 | 0.5-1B     | 500M-1B    | ~2GB      | Mid-range phones  |
 | 1-3B       | 1-3B       | ~3-4GB    | Modern phones     |
 | 4-7B       | 4-7B       | ~5-8GB    | High-end phones   |
-| 9B+        | 9B+        | ~9GB+     | Tablets/flagship  |
+| 9B+*       | 9B+        | ~9GB+     | Tablets/flagship  |
+
+*Note: Currently no actively supported models exceed 7B parameters. This row applies to obsolete models like Gemma2 9B or future large models.
 
 ## Build System
 

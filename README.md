@@ -59,7 +59,7 @@ If you're a developer wanting to build from source or contribute, see the build 
 
 * **Android Studio**: [Latest stable version](https://developer.android.com/studio/releases)
 * **NDK**: Version 27.2.12479018 or higher
-* **JDK**: Version 21 (automatically managed by Android Studio)
+* **JDK**: 21 (automatically managed by Android Studio)
 * **Git**: For cloning the repository
 
 ### Setup Steps

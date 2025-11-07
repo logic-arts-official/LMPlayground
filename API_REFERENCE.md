@@ -684,11 +684,34 @@ fun `test model list is sorted`() {
 
 ### Mocking Native Layer
 
+For testing, use composition or interface-based approaches since LlamaModel has a private constructor:
+
 ```kotlin
-// Create a mock LlamaModel for testing
-class MockLlamaModel : LlamaModel() {
-    override fun createSession(...): LlamaGenerationSession {
-        return MockLlamaGenerationSession()
+// Create a test wrapper instead of extending LlamaModel
+class TestLlamaModelWrapper(
+    private val mockSession: LlamaGenerationSession
+) {
+    fun createSession(
+        inputPrefix: String,
+        inputSuffix: String,
+        antiPrompt: Array<String>
+    ): LlamaGenerationSession = mockSession
+    
+    fun release() {
+        // Mock cleanup
+    }
+}
+
+// Or use a mock generation session directly
+class MockLlamaGenerationSession : LlamaGenerationSession(
+    modelPtr = 0L,
+    inputPrefix = "",
+    inputSuffix = "",
+    antiPrompt = emptyArray()
+) {
+    override fun generate(prompt: String, callback: LlamaGenerationCallback) {
+        callback.onToken("Mocked response")
+        callback.onComplete()
     }
 }
 ```
