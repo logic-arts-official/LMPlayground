@@ -209,6 +209,6 @@ We appreciate security researchers who responsibly disclose vulnerabilities. Con
 
 ---
 
-**Last Updated**: 2025-11-06
+**Last Updated**: [to be determined]
 
 This security policy may be updated periodically. Please check back for the latest version.
