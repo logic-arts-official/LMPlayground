@@ -75,7 +75,7 @@ Developer API documentation.
 ## Key Updates
 
 ### Corrected Information
-- ✅ Repository URL: Changed from `gkrost` to `logic-arts-official`
+- ✅ Repository URL: Changed from `gkrost/LMPlayground` to `logic-arts-official/LMPlayground`
 - ✅ Model list: Updated to reflect current models (Qwen 3, Gemma 3, Phi-4, DeepSeek R1)
 - ✅ Marked obsolete models (Qwen2.5, Llama3.1, Phi3.5, Mistral 7B, Gemma2 9B)
 - ✅ Accurate build requirements and setup instructions
