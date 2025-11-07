@@ -275,7 +275,7 @@ These models are from older generations and are hidden from new users. They rema
 - **Llama3.2 3B** (GGML format, obsolete) – Superseded by **Llama 3.2 3B** (GGUF format, see Current Models)
 - **Phi3.5 Mini** - Superseded by Phi-4 Mini
 - **Mistral 7B** - v0.3, no longer updated
-- **Llama3.1 8B** - Superseded by later versions
+- **Llama3.1 7B** - Superseded by later versions
 - **Gemma2 9B** - Earlier generation
 
 ## Model Specifications
