@@ -173,5 +173,5 @@ Keep all documentation files in sync with code changes.
 
 ---
 
-Generated: 2025-11-06
+Generated: 2024-06-10
 Status: ✅ Complete and up-to-date
