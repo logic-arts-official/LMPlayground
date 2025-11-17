@@ -141,21 +141,21 @@ Security policy and guidelines.
 
 ```
 LMPlayground/
-├── README.md              # Main documentation (258 lines)
-├── USER_GUIDE.md          # End-user guide (345 lines) ⭐ NEW
-├── TROUBLESHOOTING.md     # Problem-solving guide (437 lines) ⭐ NEW
-├── PERFORMANCE.md         # Performance guide (432 lines) ⭐ NEW
-├── DEPLOYMENT.md          # Release procedures (384 lines) ⭐ NEW
+├── README.md              # Main documentation (265 lines)
+├── USER_GUIDE.md          # End-user guide (370 lines) ⭐ NEW
+├── TROUBLESHOOTING.md     # Problem-solving guide (622 lines) ⭐ NEW
+├── PERFORMANCE.md         # Performance guide (595 lines) ⭐ NEW
+├── DEPLOYMENT.md          # Release procedures (560 lines) ⭐ NEW
 ├── CONTRIBUTING.md        # Contributor guide (290 lines)
-├── ARCHITECTURE.md        # Technical architecture (554 lines)
-├── MODELS.md              # Model information (443 lines)
-├── API_REFERENCE.md       # API documentation (707 lines)
+├── ARCHITECTURE.md        # Technical architecture (556 lines)
+├── MODELS.md              # Model information (445 lines)
+├── API_REFERENCE.md       # API documentation (730 lines)
 ├── CHANGELOG.md           # Version history (85 lines)
 ├── SECURITY.md            # Security policy (214 lines)
-└── DOCS_SUMMARY.md        # This file (updated)
+└── DOCS_SUMMARY.md        # This file (277 lines)
 ```
 
-Total: **4,149 lines** of comprehensive documentation
+Total: **5,009 lines** of comprehensive documentation
 
 ## For End-Users
 
@@ -273,5 +273,5 @@ Keep all documentation files in sync with code changes.
 ---
 
 Generated: 2024-06-10  
-Updated: 2025-11-17  
+Updated: 2024-11-17  
 Status: ✅ Complete and comprehensive for all audiences
