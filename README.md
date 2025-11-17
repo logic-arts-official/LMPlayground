@@ -171,9 +171,16 @@ LMPlayground/
 
 ## Documentation
 
+- **[USER_GUIDE.md](USER_GUIDE.md)**: Complete user guide with quick start tutorial
+- **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)**: Solutions to common problems
 - **[ARCHITECTURE.md](ARCHITECTURE.md)**: Technical architecture and design
 - **[MODELS.md](MODELS.md)**: Detailed model information and comparison
+- **[PERFORMANCE.md](PERFORMANCE.md)**: Performance benchmarks and optimization
+- **[API_REFERENCE.md](API_REFERENCE.md)**: Developer API documentation
 - **[CONTRIBUTING.md](CONTRIBUTING.md)**: Guidelines for contributors
+- **[DEPLOYMENT.md](DEPLOYMENT.md)**: Release and deployment procedures
+- **[SECURITY.md](SECURITY.md)**: Security policy and vulnerability reporting
+- **[CHANGELOG.md](CHANGELOG.md)**: Version history and release notes
 - **[LICENSE](LICENSE)**: MIT License terms
 
 ## Contributing
