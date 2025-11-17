@@ -164,7 +164,7 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
 
     // Compose + AndroidX instrumentation test stack
-    androidTestImplementation(platform("androidx.compose:compose-bom:1.8.3")) // latest stable :contentReference[oaicite:0]{index=0}
+    androidTestImplementation(platform("androidx.compose:compose-bom:2025.11.00"))
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")            // provides createAndroidComposeRule
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.7.0")
