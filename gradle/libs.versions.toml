@@ -53,7 +53,7 @@ room = "2.8.3"
 secrets = "2.0.1"
 # @keep
 targetSdk = "35"
-version-catalog-update = "1.0.0"
+version-catalog-update = "1.0.1"
 
 [libraries]
 accompanist-adaptive = { module = "com.google.accompanist:accompanist-adaptive", version.ref = "accompanist" }
